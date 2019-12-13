@@ -19,6 +19,8 @@ Unicity2                         Uni2
     [Tags]  tf:unicity_ok=value2  tf:unicity_multiline=value_one|value_two|value_three
 Unicity Suite                    Unisuite
     [Tags]  tf:unicity_suite_ok=value1  tf:unicity_suite_multiline=value_solo
+Spaces                           Spaces
+    [Tags]  tf:space_before_sep =first_value  tf:space_after_sep= value  tf:multivaluesep = one|two|three
 
 *** Keywords ***
 
