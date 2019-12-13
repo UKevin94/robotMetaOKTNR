@@ -16,7 +16,7 @@ Multiline Duplicate Warning      MultiDupWarn
 Unicity1                         Uni1
     [Tags]  tf:unicity_ok=value1  tf:unicity_multiline=value_solo
 Unicity2                         Uni2
-    [Tags]  tf:unicity_ok=value2  tf:value_one|value_two|value_three
+    [Tags]  tf:unicity_ok=value2  tf:unicity_multiline=value_one|value_two|value_three
 Unicity Suite                    Unisuite
     [Tags]  tf:unicity_suite_ok=value1  tf:unicity_suite_multiline=value_solo
 
